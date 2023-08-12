@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f6c4b1-fe58-4f11-ba95-26a541d08a7a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/IteratorForLinkedList/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IteratorForLinkedList/ListNodeIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IteratorForLinkedList/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReceptionistAtPetStore/Facade/Receptionist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReceptionistAtPetStore/Interface/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReceptionistAtPetStore/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReceptionistAtPetStore/Pets/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReceptionistAtPetStore/Pets/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design Tic Tac Toe game/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +16,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2TlGfAELa627JHlwfrD2VbNAcIM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/arkajyotisaha/Desktop/OOD/Lintcode/Object-Oriented-Design"
+    "last_opened_file_path": "/Users/arkajyotisaha/Desktop/OOD/LLD-Design/ObjectOrientedDesign"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
